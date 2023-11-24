@@ -18,6 +18,7 @@ const detailsPage = (props) => {
         weight={props.weight}
         moves={props.moves.length}
         order={props.order}
+        encounter={props.location_area_encounters}
       />
     </>
   );

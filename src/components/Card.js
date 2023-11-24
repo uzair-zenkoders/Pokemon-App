@@ -7,10 +7,7 @@ const Card = (props) => {
   const router = useRouter();
 
   const onClick = () => {
-    console.log(props.url);
     router.push(`/pokemon/${id}/`);
-    console.log(id);
-    // window.open(url);
   };
 
   return (
