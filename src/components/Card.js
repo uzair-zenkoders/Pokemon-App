@@ -14,7 +14,7 @@ const Card = (props) => {
     <div>
       <div id="card" className="card my-3">
         <img
-          src="https://www.freepnglogos.com/uploads/pokemon-symbol-logo-png-31.png"
+          src="https://cdn.icon-icons.com/icons2/851/PNG/512/Ultra_Ball_icon-icons.com_67500.png"
           className="card-img-top"
           alt="..."
         />
